@@ -9,7 +9,7 @@ export default function App() {
   return (
     <main className="page">
       <section className="hero">
-        <p className="eyebrow">LABORATORIO DE DESPLIEGUE</p>
+        <p className="eyebrow">LABORATORIO DE DESPLIEGUE (ESTO FUE MODIFICADO POR LOGIN)</p>
         <h1>DeployLab <span>React</span></h1>
         <p className="subtitle">
           Practicá el recorrido completo de una aplicación: Git, GitHub, Pull Requests,
